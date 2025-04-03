@@ -106,13 +106,13 @@ const styles = StyleSheet.create({
     width: 40,
     height: 40,
     backgroundColor: '#9603E8',
-    borderRadius: 20, // Ajustado para um valor numérico
+    borderRadius: 20, 
     justifyContent: 'center',
     alignItems: 'center',
   },
   circulo2: {
     backgroundColor: 'grey',
-    borderRadius: 15, // Ajustado para um valor numérico
+    borderRadius: 15, 
     width: 60,
     height: 60,
     alignItems: 'center',
